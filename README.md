@@ -1,1 +1,2 @@
-# processingEngineer
+# 정처기 공부
+[1회차 공부 내역 / 22.04 2회차](https://www.notion.so/22-4-24-2-18256367f19f8039a88cc4864c6c5b08)
