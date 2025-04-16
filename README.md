@@ -16,3 +16,10 @@
 # 6. 비연결형 통신에서 주로 사용되는 방식 -> 데이터그램 방식
 
 </details>
+
+<details>
+    <summary>25.04.16</summary>
+
+# 1. Bridege, Observer
+
+</details>
