@@ -18,8 +18,20 @@
 </details>
 
 <details>
-    <summary>25.04.16</summary>
+    <summary>25.04.17</summary>
 
 # 1. Bridege, Observer
+
+# 2. 수학-> 정형 명세, 비정형 명세
+
+# 3. 자료 흐름, 자료 저장소
+
+# 4. 관계, 함수, 인터페이스
+
+# 5. Pair Programming, Whole Team
+
+# 6. 애자일
+
+# 7. XP
 
 </details>
